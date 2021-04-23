@@ -2,7 +2,7 @@
 
 <h5>Para mais informações sobre o láravel, consulte as informações abaixo:</h5>
 
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://symbols.getvecta.com/stencil_87/8_laravel-icon.3f70de72f3.png" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
